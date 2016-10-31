@@ -1,1 +1,2 @@
 My awesome and fast app!
+New awesome feature!
